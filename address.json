@@ -1,0 +1,73 @@
+[
+  {
+    "latlng": [
+      45.5093468,
+      -122.7291091
+    ],
+    "address": "1812 SW Parkview Ct, Portland, OR 97221, USA"
+  },
+  {
+    "latlng": [
+      45.3956072,
+      -122.9394658
+    ],
+    "address": "17195 SW Hillsboro Hwy, Sherwood, OR 97140, USA"
+  },
+  {
+    "latlng": [
+      45.4389479,
+      -122.8239302
+    ],
+    "address": "14330 SW Teal Blvd, Beaverton, OR 97008, USA"
+  },
+  {
+    "latlng": [
+      45.5093468,
+      -122.7291091
+    ],
+    "address": "1812 SW Parkview Ct, Portland, OR 97221, USA"
+  },
+  {
+    "latlng": [
+      45.3956072,
+      -122.9394658
+    ],
+    "address": "17195 SW Hillsboro Hwy, Sherwood, OR 97140, USA"
+  },
+  {
+    "latlng": [
+      45.5007161,
+      -122.7406252
+    ],
+    "address": "3040 SW Scholls Ferry Rd, Portland, OR 97221, USA"
+  },
+  {
+    "latlng": [
+      45.4995534,
+      -122.7433307
+    ],
+    "address": "3302 SW 64th Pl, Portland, OR 97221, USA"
+  },
+  {
+    "latlng": [
+      45.5003142,
+      -122.7419144
+    ],
+    "address": "3211 SW Scholls Ferry Ct, Portland, OR 97221, USA"
+  },
+  {
+    "latlng": [
+      45.5014837302915,
+      -122.7406252
+    ],
+    "address": "3030 SW Scholls Ferry Rd, Portland, OR 97221, USA"
+  },
+  {
+    "latlng": [
+      45.4987857697085,
+      -122.7433307
+    ],
+    "address": "3359 SW 64th Pl, Portland, OR 97221, USA",
+    "message": "Process completed successfully"
+  }
+]
